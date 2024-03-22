@@ -1,0 +1,132 @@
+# VP_ellipsis_1.txt
+# (C) 2023-2024 by Damir Cavar <dcavar@iu.edu>, Van Holthenrichs
+# language: pol
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+
+Mówię po polsku, ale źle ___.
+----
+Mówię po polsku, ale źle mówię.
+#Van Holthenrichs & Łukasz Siciński
+
+Nie chciałem ___, ale wczoraj poszliśmy do kina.
+----
+Nie chciałem pójść do kina, ale wczoraj poszliśmy do kina.
+#Van Holthenrichs & Łukasz Siciński
+
+Czy nie możesz odpowiedzieć, czy poprostu nie chcesz ___?
+----
+Czy nie możesz odpowiedzieć, czy poprostu nie chcesz odpowiedzieć?
+#Van Holthenrichs & Łukasz Siciński
+
+B: Nie chcę takich lodów!
+Więc jakie ___!?
+----
+Więc jakie chcesz!?
+#Van Holthenrichs & Łukasz Siciński
+
+Nie gotuję tak dobrze, jak ty ___.
+----
+Nie gotuję tak dobrze, jak ty gotujesz.
+#Van Holthenrichs & Łukasz Siciński
+
+Ojciec zawsze narzeka, a ja nigdy nie ___.
+----
+Ojciec zawsze narzeka, a ja nigdy nie narzekam.
+#Van Holthenrichs & Łukasz Siciński
+
+Ona mnie nie lubi, i ja jej ___.
+----
+Ona mnie nie lubi, i ja jej nie lubię.
+#Van Holthenrichs & Łukasz Siciński
+
+Chociaż chcieliśmy złamać prawo, nie odważyliśmy się ___.
+----
+Chociaż chcieliśmy złamać prawo, nie odważyliśmy się złamać prawa.
+#Van Holthenrichs & Łukasz Siciński
+
+Bardzo chcemy podróźować po Ukrainie, ale teraz nie możemy ___.
+----
+Bardzo chcemy podróźować po Ukrainie, ale teraz nie możemy podróźować po Ukrainie.
+#Van Holthenrichs & Łukasz Siciński
+
+Nie jem tyle, ile on ___.
+----
+Nie jem tyle, ile on je.
+#Van Holthenrichs & Łukasz Siciński
+
+Ona wie więcej o swoim kraju, niż on ___.
+----
+Ona wie więcej o swoim kraju, niż on wie o jej kraju.
+#Van Holthenrichs & Łukasz Siciński
+
+Ona wie więcej o swoim kraju, niż on ___.
+----
+Ona wie więcej o swoim kraju, niż on wie o swoim kraju.
+#Van Holthenrichs & Łukasz Siciński
+
+Moja dziewczyna zawsze chce chodzić do kina, ale ja nigdy nie chcę ___.
+----
+Moja dziewczyna zawsze chce chodzić do kina, ale ja nigdy nie chcę chodzić do kina.
+#Van Holthenrichs & Łukasz Siciński
+
+Przyszliśmy tu, bo chcieliśmy ___.
+----
+Przyszliśmy tu, bo chcieliśmy przyjść tu.
+#Van Holthenrichs & Łukasz Siciński
+
+Dobrzy studenci zawsze robią pracę domową, ale źli studenci nigdy nie ___.
+----
+Dobrzy studenci zawsze robią pracę domową, ale źli studenci nigdy nie robią pracy domowej.
+#Van Holthenrichs & Łukasz Siciński
+
+Nie umiem gotować tak dobrze, jak ty ___.
+----
+Nie umiem gotować tak dobrze, jak ty umiesz gotować.
+#Van Holthenrichs & Łukasz Siciński
+
+Oni mogą biegać szybciej, niż ja ___.
+----
+Oni mogą biegać szybciej, niż ja mogę biegać.
+#Van Holthenrichs & Łukasz Siciński
+
+One zapytały mnie, czy chcę pojechać nad jezioro, ale nie miałem czasu ___.
+----
+One zapytały mnie, czy chcę pojechać nad jezioro, ale nie miałem czasu pojechać nad jezioro.
+#Van Holthenrichs & Łukasz Siciński
+
+Moi rodzice mieszkają w Łodzi i siostra też ___.
+----
+Moi rodzice mieszkają w Łodzi i siostra też mieszka w Łodzi.
+#Van Holthenrichs & Łukasz Siciński
+
+Co roku on przypadkowo rozbija kubek i jego matka też ___.
+----
+Co roku on przypadkowo rozbija kubek i jego matka też co roku przypadkowo rozbija kubek.
+#Van Holthenrichs & Łukasz Siciński
+
+Ja mogę widzieć bez okularów, ale moja żona nie może ___.
+----
+Ja mogę widzieć bez okularów, ale moja żona nie może widzieć bez okularów.
+#Van Holthenrichs & Łukasz Siciński
+
+Nienawidzę Marka i ty też ___.
+----
+Nienawidzę Marka i ty też nienawidzisz Marka.
+#Van Holthenrichs & Łukasz Siciński
+
+Nienawidzę Marka i ciebie też ___.
+----
+Nienawidzę Marka i ciebie też nienawidzę.
+#Van Holthenrichs & Łukasz Siciński
+
+Marian często spotyka się z nowymy osobami, a Ewa ___ rzadko.
+----
+Marian często spotyka się z nowymy osobami, a Ewa spotyka się z nowymy osobami rzadko.
+#Van Holthenrichs & Łukasz Siciński
+
+Ja mam sprzątnąć pokój dziś, a ty ____ jutro.
+----
+Ja mam sprzątnąć pokój dziś, a ty masz sprzątnąć pokój jutro.
+#Van Holthenrichs & Łukasz Siciński

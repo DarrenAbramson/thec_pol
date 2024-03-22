@@ -1,0 +1,197 @@
+# Additional_Ellipsis_Data_1.txt
+# (C) 2023-2024 by Damir Cavar <dcavar@iu.edu>, Vance Holthenrichs <vanholth@iu.edu>
+# language: pol
+# Notes: 
+# These have not been sorted for type of ellipsis
+# These are all grammatical examples. The elided positions are indicated by ___.
+# All examples were created/approved by Van Holthenrichs & Małgosia Ćavar
+# It appears that something that may be variable from speaker to speaker is when GEN of negation is preferred/dispreferred; some speakers seem to want the genitive 
+# used when there is ellipsis 'filling in' a scope of negation, whereas others don't. It seems highly likely that ellipsis is playing an interfering role here.
+
+W poniedziałek czytaliśmy pierwszą część noweli, i we wtorek ___ drugą ___.
+----
+W poniedziałek czytaliśmy pierwszą część noweli, i we wtorek czytaliśmy drugą część noweli.
+
+Przygotuję materiały na poniedziałek, a ty ___ na wtorek.
+----
+Przygotuję materiały na poniedziałek, a ty przygotujesz materiały na wtorek.
+
+Koszula jest dla mnie trochę za duża, a spodnie ___ za małe.
+----
+Koszula jest dla mnie trochę za duża, a spodnie są dla mnie trochę za małe.
+
+Chciałem herbatę z Chiny, nie ___ z Indii.
+----
+Chciałem herbatę z Chiny, nie Chciałem herbaty z Indii.
+
+Zadałem mu trzy pytania, a ___ jej tylko dwa ___.
+----
+Zadałem mu trzy pytania, a zadałem jej tylko dwa pytania.
+
+Zadałem mu trzy pytania, i ty też ___.
+----
+Zadałem mu trzy pytania, i ty też zadałeś mu trzy pytania.
+
+Zadałem mu trzy pytania, i ty też ___.
+----
+Zadałem mu trzy pytania, i ty też zadałaś mu trzy pytania.
+
+Zadałem mu trzy pytania, i ___ tobie ___ też.
+----
+Zadałem mu trzy pytania, i zadałem tobie trzy pytania też.
+
+Ja planuję kupić samochód, a ty ___ sprzedać ___.
+----
+Ja planuję kupić samochód, a ty planujesz sprzedać samochód.
+
+Tam spróbowałem pierwszy raz boczek, i ty ___ też.
+----
+Tam spróbowałem pierwszy raz boczek, i ty tam spróbowałeś pierwszy raz boczek też.
+
+Tam spróbowałem pierwszy raz boczek, i ty ___ też.
+----
+Tam spróbowałem pierwszy raz boczek, i ty tam spróbowałaś pierwszy raz boczek też.
+
+Tam spróbowałem pierwszy raz boczek, a ty ___ zrazy.
+----
+Tam spróbowałem pierwszy raz boczek, a ty tam spróbowałaś pierwszy raz zrazy.
+
+Tam spróbowałem pierwszy raz boczek, a ty ___ zrazy.
+----
+Tam spróbowałem pierwszy raz boczek, a ty tam spróbowałeś pierwszy raz zrazy.
+
+Tam spróbowałem pierwszy raz boczek, i też ___ zrazy.
+----
+Tam spróbowałem pierwszy raz boczek, i też tam spróbowałem pierwszy raz zrazy.
+
+Tam spróbowałam pierwszy raz boczek, i też ___ zrazy.
+----
+Tam spróbowałam pierwszy raz boczek, i też tam spróbowałam pierwszy raz zrazy.
+
+Wolę jeść zrazy z wołowiną, a ty ___ z wieprzowiną.
+----
+Wolę jeść zrazy z wołowiną, a ty wolisz jeść zrazy z wieprzowiną.
+
+Na Boże Narodzenie moja siostra gotuje pierogi z ziemniakami, a ___ ja ___ ze śliwką.
+----
+Na Boże Narodzenie moja siostra gotuje pierogi z ziemniakami, a na Boże Narodzenie ja gotuję pierogi ze śliwką.
+
+Dobrze rozumiem matematykę, ale nie ___ biologię.
+----
+Dobrze rozumiem matematykę, ale nie dobrze rozumiem biologię.
+
+On dobrze rozumie matemetykę, i ___ biologię też.
+----
+On dobrze rozumie matemetykę, i on dobrze rozumie biologię też.
+
+Teraz oni mówią po ukrainsku, ___ nie ___ po rosyjsku.
+----
+Teraz oni mówią po ukrainsku, oni nie mówią po rosyjsku.
+
+Teraz oni mówią po ukrainsku, ___ nie ___ rosyjsku.
+----
+Teraz oni mówią po ukrainsku, oni nie mówią po rosyjsku.
+
+My chcemy pojść na wycieczkę do muzeum, a wy ___ do teatru.
+----
+My chcemy pojść na wycieczkę do muzeum, a wy chcecie pojść na wycieczkę do teatru.
+
+Osoba opisuje jakieś miasto, ale to nam nie jest jasne, jakie ___.
+----
+Osoba opisuje jakieś miasto, ale to nam nie jest jasne, jakie miasto osoba opisuje.
+
+Ojciec nie je białej cebuli, ___ tylko czerwoną ___.
+----
+Ojciec nie je białej cebuli, ojciec je tylko czerwoną cebulę.
+
+Codziennie rano ojciec je płatki śniadanowe, ale ___ wieczorem ___ stek.
+----
+Codziennie rano ojciec je płatki śniadanowe, ale codziennie wieczorem ojciec je stek.
+
+Codziennie rano ojciec je płatki śniadanowe, i ___ wieczorem ___ też.
+----
+Codziennie rano ojciec je płatki śniadanowe, i codziennie wieczorem ojciec je płatki śniadanowe też.
+
+Przyprawię zupę najpierw papryką, i potem ___ pieprzem.
+----
+Przyprawię zupę najpierw papryką, i potem przyprawię zupę pieprzem.
+
+Ja przyprawię zupę papryką, a ty ___ pieprzem.
+----
+Ja przyprawię zupę papryką, a ty przyprawisz zupę pieprzem.
+
+My pojedziemy do parku samochodem, a one ___ rowerem.
+----
+My pojedziemy do parku samochodem, a one pojadą do parku rowerem.
+
+Moja matka chce nowy komputer, ale ___ jeszcze nie wie, jakiej marki ___.
+----
+Moja matka chce nowy komputer, ale moja matka jeszcze nie wie, jakiej marki komputer ona chce.
+
+Moja matka chce nowego komputera, ale ___ jeszcze nie wie, jakiej marki ___.
+----
+Moja matka chce nowego komputera, ale moja matka jeszcze nie wie, jakiej marki komputera ona chce.
+
+Przyjaciółka zawsze poleca mi nową muzykę, ale jeszcze słucham starej ___.
+----
+Przyjaciółka zawsze poleca mi nową muzykę, ale jeszcze słucham starej muzyki.
+
+Wolę słuchać jego starych piosenek, niż ___ nowych ___.
+----
+Wolę słuchać jego starych piosenek, niż słuchać jego nowych piosenek.
+
+Umiem sterować łódzią, ale nie ___ samolotem.
+----
+Umiem sterować łódzią, ale nie umiem sterować samolotem.
+
+On ma urodziny w czerwcu, a ona ___ w październiku.
+----
+On ma urodziny w czerwcu, a ona ma urodziny w październiku.
+
+On ma urodziny w czerwcu, i ona też ___.
+----
+On ma urodziny w czerwcu, i ona też ma urodziny w czerwcu.
+
+Jako dziecko grałem w baseball, a mój przyjaciel ___ w koszykówkę.
+----
+Jako dziecko grałem w baseball, a mój przyjaciel jako dziecko grał w koszykówkę
+
+W dzieciństwie jadłem dużo lodów, ale teraz jako dorosły ___ mało ___.
+----
+W dzieciństwie jadłem dużo lodów, ale teraz jako dorosły jem mało lodów.
+
+W dzieciństwie jadłam dużo lodów, ale teraz jako dorosła ___ mało ___.
+----
+W dzieciństwie jadłam dużo lodów, ale teraz jako dorosła jem mało lodów.
+
+Moja matka w zoo zawsze chce patrzyć na wydry, a ojciec ___ na pingwiny.
+----
+Moja matka w zoo zawsze chce patrzyć na wydry, a ojciec w zoo zawsze chce patrzyć na pingwiny.
+
+W zoo lubię patrzyć na słonie, i ___ siostra też ___.
+----
+W zoo lubię patrzyć na słonie, i w zoo siostra też lubi patrzyć na słonie.
+
+Nie umiem tańczyć tanga, ale chciałabym ___.
+----
+Nie umiem tańczyć tanga, ale chciałabym umieć tańczyć tanga.
+
+Nie umiem tańczyć tanga, ale chciałabym ___.
+----
+Nie umiem tańczyć tanga, ale chciałabym tańczyć tanga.
+
+Oni przyszli do mnie nie w środę, a raczej ___ w czwartek.
+----
+Oni przyszli do mnie nie w środę, a raczej oni przyszli do mnie w czwartek.
+
+Wszyscy nienawidzą naszego domu, ale ___ lubią swój ___.
+----
+Wszyscy nienawidzą naszego domu, ale wszyscy lubią swój dom.
+
+Chciałem piękniejszą czapkę, nie ___ taką ___.
+----
+Chciałem piękniejszą czapkę, nie chciałem taką czapkę.
+
+Chciałam piękniejszą czapkę, nie ___ taką ___.
+----
+Chciałam piękniejszą czapkę, nie chciałam taką czapkę.

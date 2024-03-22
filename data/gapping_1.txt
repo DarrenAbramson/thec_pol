@@ -1,0 +1,253 @@
+# gapping_1.txt
+# (C) 2023-2024 by Damir Cavar <dcavar@iu.edu>
+# language: pol
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Sara chce narysować lódkę, a Piotr ___ samolot.
+----
+Sara chce narysować lódkę, a Piotr chce narysować samolot.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+
+Maria ugotowata obiad we wtorek, a Piotr ___ w srode.
+
+My przyjechaliśmy ze swoimi kotami, a oni ___ ze swoimi psami.
+----
+My przyjechaliśmy ze swoimi kotami, a oni przyjechali ze swoimi psami.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+
+A Nina ___ na pianinie.
+----
+A Nina gra na pianinie.
+B: Kasia gra na klarnecie.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+
+Kasia gra na klarnecie, a Nina ___ na pianinie.
+----
+Kasia gra na klarnecie, a Nina gra na pianinie.
+# added by Damir Cavar
+
+Kobiety wydają mi się ładne, mężczyźni ___ uprzejmi, a dzieci ___ grzeczne.
+----
+Kobiety wydają mi się ładne, mężczyźni wydają mi się uprzejmi, a dzieci wydają mi się grzeczne.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+
+A więc: ty idziesz do kierowca, a ja ___ na koniec autobusa.
+----
+A więc: ty idziesz do kierowca, a ja idę na koniec autobusa.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+
+Ja kocham ją i ona ___ mnie.
+----
+Ja kocham ją i ona kocha mnie.
+B: Mylisz się grubo.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+
+___ Kocham ją i ona ___ mnie.
+----
+Ja kocham ją i ona kocha mnie.
+B: Mylisz się grubo.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+# note: pro-drop
+
+Często przychodzą do niej sąsiedzi, a czasem ___ krewni.
+----
+Często przychodzą do niej sąsiedzi, a czasem przychodzą do niej krewni.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+
+Maria lubi dzwonić do Iwana a nie ___ do Piotra.
+----
+Maria lubi dzwonić do Iwana a nie ___ do Piotra.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+
+A nie ___ do Piotra?
+----
+A nie lubi dzwonić do Piotra?
+B: Maria lubi dzwonić do Iwana.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+# also pro-drop
+
+Ja lubię piwo, a ty ___ wino.
+----
+Ja lubię piwo, a ty lubisz wino.
+#Van Holthenrichs & Łukasz Siciński
+
+Moi przyjaciele pojadą dotąd samolotem, a ja ___ samochodem.
+----
+Moi przyjaciele pojadą dotąd samolotem, a ja pojadę samochodem.
+#Van Holthenrichs & Łukasz Siciński
+
+Teraz w Ukrainie walczą z wrogami, a w Ameryce ___ między sobą.
+----
+Teraz w Ukrainie walczą z wrogami, a w Ameryce walczą między sobą.
+#Van Holthenrichs & Łukasz Siciński
+
+Do pizzy zawsze dodaję cebulę, a moja dziewczyna ___ paprykę.
+----
+Do pizzy zawsze dodaję cebulę, a moja dziewczyna zawsze dodaje paprykę.
+#Van Holthenrichs & Łukasz Siciński
+
+Lepiej stracić cały dzień, niż ___ cały tydzień.
+----
+Lepiej stracić cały dzień, niż stracić cały tydzień.
+#Van Holthenrichs & Łukasz Siciński
+
+On dobrze gotuje zupę z mięsem, a ona ___ bez mięsa.
+----
+On dobrze gotuje zupę z mięsem, a ona dobrze gotuje zupę bez mięsa.
+#Van Holthenrichs & Łukasz Siciński
+
+Jutro przyniosę lód, a ty ___ piwo.
+----
+Jutro przyniosę lód, a ty przynieszesz piwo.
+#Van Holthenrichs & Łukasz Siciński
+
+Ja częściej piję whiskey, niż on ___ wódkę.
+----
+Ja częściej piję whiskey, niż on pije wódkę.
+#Van Holthenrichs & Łukasz Siciński
+
+Zrobiłem jedną kanapkę wczoraj rano, i potem jeszcze jedną ___ wieczórem.
+----
+Zrobiłem jedną kanapkę wczoraj rano, i potem jeszcze jedną kanapkę zrobiłem wieczórem.
+#Van Holthenrichs & Łukasz Siciński
+
+Co rok czytam "Wadcę Pierścieni", a moja dziewczyna ___ "Hobbita".
+----
+Co rok czytam "Wadcę Pierścieni", a moja dziewczyna co rok czyta "Hobbita".
+#Van Holthenrichs & Łukasz Siciński
+
+Nie umiem tańczyć, a mój brat ___ pływać.
+----
+Nie umiem tańczyć, a mój brat nie umie pływać.
+#Van Holthenrichs & Łukasz Siciński
+
+Moja matka pracuje nie tylko przed południem, ale też ___ po południu.
+----
+Moja matka pracuje nie tylko przed południem, ale też pracuje po południu.
+#Van Holthenrichs & Łukasz Siciński
+
+Ona uważa go za dobrą osobę, a on ___ ją ___.
+----
+Ona uważa go za dobrą osobę, a on uważa ją za dobrą osobę.
+#Van Holthenrichs & Łukasz Siciński
+
+Elżbieta i Helena czytają gazetę, a Borys ___ książkę.
+----
+Elżbieta i Helena czytają gazetę, a Borys czyta książkę.
+#Van Holthenrichs & Łukasz Siciński
+
+Jerzy mieszka w Łodzi, a Mateusz ___ w Warszawie.
+----
+Jerzy mieszka w Łodzi, a Mateusz mieszka w Warszawie.
+#Van Holthenrichs & Łukasz Siciński
+
+Jan pisze wiersze, a Bartek ___ powieści.
+----
+Jan pisze wiersze, a Bartek pisze powieści.
+#Van Holthenrichs & Łukasz Siciński
+
+Maksymowi smakuje herbata, a Ewie ___ kawa.
+----
+Maksymowi smakuje herbata, a Ewie smakuje kawa.
+#Van Holthenrichs & Łukasz Siciński
+
+Maksymowi smakuje czekolada, a Ewie ___ słodzycze.
+----
+Maksymowi smakuje czekolada, a Ewie smakują słodzycze.
+#Van Holthenrichs & Łukasz Siciński
+
+On zawsze zamawia zimne dania, a ona ___ gorące ___.
+----
+On zawsze zamawia zimne dania, a ona zawsze zamawia gorące dania.
+#Van Holthenrichs & Łukasz Siciński
+
+Paweł gra na szkrzypcach, Jan ___ na wiolonczeli, i Piotr ___ na pianinie.
+----
+Paweł gra na szkrzypcach, Jan gra na wiolonczeli, i Piotr gra na pianinie.
+#Van Holthenrichs & Łukasz Siciński
+
+On napisał muzykę do piosenki, a ona ___ tekst ___.
+----
+On napisał muzykę do piosenki, a ona napisała tekst do piosenki.
+#Van Holthenrichs & Łukasz Siciński
+
+Przypadkowo zabrałem kubek, a siostra ___ talerz.
+----
+Przypadkowo zabrałem kubek, a siostra przypadkowo zabrała talerz.
+#Van Holthenrichs & Łukasz Siciński
+
+Lidia przeprowadzi się do Krakowa, a jej brat ___ do Warszawy.
+----
+Lidia przeprowadzi się do Krakowa, a jej brat przeprowadzi się do Warszawy.
+#Van Holthenrichs & Łukasz Siciński
+
+Oficerowie noszą czapki garnizonowe, a żołnierze piechoty ___ proste furażerki.
+----
+Oficerowie noszą czapki garnizonowe, a żołnierze piechoty noszą proste furażerki.
+#Van Holthenrichs & Łukasz Siciński
+
+Demokraci głosują za nowym prawem, ale Republikanie ___ przciew ___.
+----
+Demokraci głosują za nowym prawem, ale Republikanie głosują przciew nowemu prawu.
+#Van Holthenrichs & Łukasz Siciński
+
+Grzegorz gotuje makarony, a Weronika ___ pesto.
+----
+Grzegorz gotuje makarony, a Weronika gotuje pesto.
+#Van Holthenrichs & Łukasz Siciński
+
+Ona umarła w 1975, a jej mąż ___ rok później w 1976.
+----
+Ona umarła w 1975, a jej mąż umarł rok później w 1976.
+#Van Holthenrichs & Łukasz Siciński
+
+Żukow prowadził swoją armię do Berlina z północy, a Koniew ___ z południa.
+----
+Żukow prowadził swoją armię do Berlina z północy, a Koniew prowadził swoją armię do Berlina z południa.
+#Van Holthenrichs & Łukasz Siciński
+
+Mój brat myśli, że lepiej polować łukiem, niż ___ karabinem.
+----
+Mój brat myśli, że lepiej polować łukiem, niż polować karabinem.
+#Van Holthenrichs & Łukasz Siciński
+
+Mój brat myśli, że lepiej polować z łukiem, niż ___ z karabinem.
+----
+Mój brat myśli, że lepiej polować z łukiem, niż polować z karabinem.
+#Van Holthenrichs & Łukasz Siciński
+
+Kocięta bawią się małymi zabawkami, a psięta ___ dużymi ___.
+----
+Kocięta bawią się małymi zabawkami, a psięta bawią się dużymi zabawkami.
+#Van Holthenrichs & Łukasz Siciński
+
+My uczymy się języków, a nasi przyjaciele ___ biznesu.
+----
+My uczymy się języków, a nasi przyjaciele uczą się biznesu.
+#Van Holthenrichs & Łukasz Siciński
+
+W zeszłym roku hodowaliśmy tylko ziemniaki, ale w tym roku ___ i ziemniaki i ogórki.
+----
+W zeszłym roku hodowaliśmy tylko ziemniaki, ale w tym roku hodujemy i ziemniaki i ogórki.
+#Van Holthenrichs & Łukasz Siciński
+
+Moja przyjaciółka zawsze bierze prysznic wieczorem, a ja ___ rano.
+----
+Moja przyjaciółka zawsze bierze prysznic wieczorem, a ja zawsze biorę prysznic rano.
+#Van Holthenrichs & Łukasz Siciński
+
+Granica Finlandii z Rosją jest długa, _____ z Norwegią ____ krótka, a _____ ze Szwecją ____ średniej długości.
+----
+Granica Finlandii z Rosją jest długa, granica Finlandii z Norwegią jest krótka, a granica Finlandii ze Szwecją jest średniej długości.
+#Van Holthenrichs & Łukasz Siciński

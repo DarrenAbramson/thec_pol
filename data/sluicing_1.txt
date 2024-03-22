@@ -1,0 +1,117 @@
+# sluicing_1.txt
+# (C) 2023-2024 by Damir Cavar <dcavar@iu.edu>
+# language: pol
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+
+Piotr wyleciał ze studiów, ale nie wiemy dokładnie dlaczego ___ .
+----
+Piotr wyleciał ze studiów, ale nie wiemy dokładnie dlaczego on wyleciał ze studiów.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+
+Musimy kogoś zapytać, ale nie wiemy kogo ___ .
+----
+Musimy kogoś zapytać, ale nie wiemy kogo zapytać.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+
+Nie wiemy dokładnie dlaczego ___ , ale wiemy, że Piotr wyleciał ze studiów.
+----
+Nie wiemy dokładnie dlaczego Piotr wyleciał ze studiów, ale wiemy, że Piotr wyleciał ze studiów.
+# added by Damir Cavar
+# Marjorie J. McShan (2000) Verbal Ellipsis in Russian, Polish and Czech. SEEJ Vol 44 No 2, pp 195-233.
+
+Jego zabili, ale nie wiem dlaczego ___.
+----
+Jego zabili, ale nie wiem dlaczego go zabili.
+#Van Holthenrichs & Łukasz Sicinski
+
+Mnie się podoba ta piosenka, ale nie wiem, dlaczego ___.
+----
+Mnie się podoba ta piosenka, ale nie wiem, dlaczego mi się podoba ta piosenka.
+#Van Holthenrichs & Łukasz Sicinski
+
+Ona go zabiła, ale czym ___ nie wiemy.
+----
+Ona go zabiła, ale czym go zabiła, nie wiemy.
+#Van Holthenrichs & Łukasz Sicinski
+
+Nieznajomy dał mi prezent, ale nie wiem, dlaczego ___.
+----
+Nieznajomy dał mi prezent, ale nie wiem, dlaczego nieznajomy dał mi prezent.
+#Van Holthenrichs & Łukasz Sicinski
+
+Ona wstała i wyszła, ale jej mąż nie wiedział, dlaczego ___.
+----
+Ona wstała i wyszła, ale jej mąż nie wiedział, dlaczego ona wstała i wyszła.
+#Van Holthenrichs & Łukasz Sicinski
+
+Coś kupili na rynku, ale jeszcze nam nie powiedzieli co ___.
+----
+Coś kupili na rynku, ale jeszcze nam nie powiedzieli co kupili na rynku.
+#Van Holthenrichs & Łukasz Sicinski
+
+Chcę pojechać za granicę, ale nie wiem, gdzie ___.
+----
+Chcę pojechać za granicę, ale nie wiem, gdzie chcę pojechać.
+#Van Holthenrichs & Łukasz Sicinski
+
+Wczoraj coś mi się śniło, ale nie pamiętam co ___.
+----
+Wczoraj coś mi się śniło, ale nie pamiętam co mi się sniło.
+#Van Holthenrichs & Łukasz Sicinski
+
+B: Niemcy piją piwo.
+Czy dużo ___?
+----
+Czy dużo niemcy piją piwa?
+#Van Holthenrichs & Łukasz Sicinski
+
+B: Komu oni kupili samochód?
+Ojcowi ___.
+----
+Ojcowi kupili samchód.
+#Van Holthenrichs & Łukasz Sicinski
+
+On mówi z obcym akcentem, ale nie wiemy dlaczego ___.
+----
+On mówi z obcym akcentem, ale nie wiemy dlaczego on mówi z obcym akcentem.
+#Van Holthenrichs & Łukasz Sicinski
+
+On naprawił mój samochód, ale nie rozuiem jak ___.
+----
+On naprawił mój samochód, ale nie rozuiem jak on naprawił mój samochód.
+#Van Holthenrichs & Łukasz Sicinski
+
+B: Jan skoczył do studni!
+Dlaczego ___?
+----
+Dlaczego Jan skoczył do studni?
+#Van Holthenrichs & Łukasz Sicinski
+
+Dziś pójdziemy do baru, ale jeszcze mi nie powiedzieli, kiedy ___.
+----
+Dziś pójdziemy do baru, ale jeszcze mi nie powiedzieli, kiedy pójdziemy do baru.
+#Van Holthenrichs & Łukasz Sicinski
+
+Oni kupili dmuchany zamek, ale nie wiadomo komu ___.
+----
+Oni kupili dmuchany zamek, ale nie wiadomo komu oni kupili dmuchany zamek.
+#Van Holthenrichs & Łukasz Sicinski
+
+Oni się śmieją, ale nie wiemy z kogo ___.
+----
+Oni się śmieją, ale nie wiemy z kogo oni się śmieją.
+#Van Holthenrichs & Łukasz Sicinski
+
+On wątpi, że kiedyś wygra w lotto, ale mimo tego ma nadzieję ___.
+----
+On wątpi, że kiedyś wygra w lotto, ale mimo tego ma nadzieję że kiedyś wygra w lotto.
+#Van Holthenrichs & Łukasz Sicinski
+
+Jan uśmiecha się i Paweł wie dlaczego ___.
+----
+Jan uśmiecha się i Paweł wie dlaczego Jan uśmiecha się.
+#Van Holthenrichs & Łukasz Sicinski
