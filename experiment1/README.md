@@ -1,4 +1,4 @@
-# The Hoosier Ellipsis Corpus (THEC) - Polish Sub-corpus (thec_pol)
+# The Hoosier Ellipsis Corpus (THEC) - Polish Sub-corpus (thec_pol) - Experiment 1 Data
 
 (C) 2024 [NLP-Lab]
 

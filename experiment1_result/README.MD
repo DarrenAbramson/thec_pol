@@ -1,10 +1,18 @@
-# The Hoosier Ellipsis Corpus (THEC) - Polish Sub-corpus (thec_pol)
+# The Hoosier Ellipsis Corpus (THEC) - Polish Sub-corpus (thec_pol) - Experiment 1 Results
 
 (C) 2024 [NLP-Lab]
 
 Created: 2024-04-10 by [Damir Cavar]
 
 Last change: 2024-05-14 by [Damir Cavar]
+
+This folder contains the results of experiment 1, as explained in Cavar and Holthenrichs (2024) and Cavar at al. (2024) *Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches*.
+
+The Task 1 data consists of a random mix of constructions with and without ellipsis. The task for an NLP pipeline or an LLM is to guess the position and full form of the elided words, phrases, and other content.
+
+The Task 2 data consists of ellipsis constructions in Russian. The task for an NLP pipeline or an LLM is to guess the position and full form of the elided words, phrases, and other content.
+
+The Task 3 data consists of ellipsis constructions in Russian. The task for an NLP pipeline or an LLM is to guess the position and full form of the elided words, phrases, and other content.
 
 More details about the [Hoosier Ellipsis Corpus] can be found on the [NLP-Lab] pages. The [GitHub repo](https://github.com/dcavar/hoosierellipsiscorpus) contains links to other languages and useful code and scripts for data processing.
 
